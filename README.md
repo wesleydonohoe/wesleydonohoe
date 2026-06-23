@@ -1,6 +1,6 @@
 ### Hi, I'm Wes Donohoe 👋
 
-I build consumer healthcare products, and I've spent ~20 years doing it — from leading product & design at [One Medical](https://www.onemedical.com), to CPO at Everside Health, to founding a venture-backed caregiver platform, Helpful, to where I am now: **heads-down, full-stack, building [VisitRecall](https://visitrecall.com).**
+I build consumer healthcare products, and I've spent ~20 years doing it — from leading product & design at One Medical, to CPO at Everside Health, to founding a venture-backed caregiver platform, Helpful, to where I am now: **heads-down, full-stack, building [VisitRecall](https://visitrecall.com).**
 
 📍 Cambridge, MA  ·  🔗 [visitrecall.com](https://visitrecall.com)  ·  💼 [LinkedIn](https://www.linkedin.com/in/wesleydonohoe)
 
