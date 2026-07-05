@@ -38,9 +38,7 @@ I'll be sharing more here on how it's built — the architecture, the patterns, 
 
 ### 🧭 Background
 
-A product leader before a solo builder:
-
-- **VisitRecall** — Founder & Full-Stack Builder. Solo-shipping native iOS/Android/web for an AI health companion. *(2026–present)*
+- **VisitRecall** — Founder & Full-Stack Builder. Shipping native iOS/Android/web for an AI health companion. *(2026–present)*
 - **Helpful, Inc.** — Founder & CEO. Family-caregiver + mental-health platform; raised **$8.75M** seed, led a team of **32**, scaled to **$2M** revenue across 30+ payor partners. Featured in TechCrunch, AARP, and Business Insider. *(2022–2025)*
 - **Everside Health** — Chief Product Officer. Product strategy for direct-to-employer advanced primary care across 34 states. *(2021–2022)*
 - **One Medical** (later acquired by Amazon) — VP, Product & Design → Special Projects. Scaled the product org **6 → 61**; owned consumer apps, the proprietary EHR, telemedicine, and ML/NLP-driven care routing. *(2016–2020)*
