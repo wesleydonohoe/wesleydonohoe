@@ -2,6 +2,6 @@
 
 I build healthcare products. Previous founder of Helpful and VisitRecall, CPO at Everside Health, VP Product & Design at One Medical.
 
-**How I build.** Give AI agents explicit goals, values and evals, plus a specific coding framework and structure to build in, and learning compounds faster than anything I've seen. In the speed-up-or-slow-down argument, that puts me on the side of faster and smarter, with evals as the gate.
+**How I build.** Give an AI agent explicit goals, values, tests and evals, plus one coding framework and structure to build in. Every lesson then becomes a rule, a test or an eval the next session inherits, and that loop is the fastest I've worked in. Speed is downstream of verification: tests and evals are the gate. The job shifts to clearly defining the problem, designing the system and holding a high bar.
 
 📍 Cambridge, MA  ·  💼 [LinkedIn](https://www.linkedin.com/in/wesleydonohoe)
